@@ -2,7 +2,7 @@
   "name": "slack-agents",
   "private": true,
   "type": "module",
-  "description": "Two Slack agents (cohort support bot and client advisor) distilled from Cloudflare Workers code. No dependencies.",
+  "description": "Two Slack agents (cohort support bot and client advisor) rewritten from scratch and modeled on Cloudflare Workers code. No dependencies.",
   "scripts": {
     "test": "node --test test/*.test.js"
   },
