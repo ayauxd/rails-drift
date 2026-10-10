@@ -1,0 +1,6 @@
+{
+  "floor": 0.7,
+  "midHi": 0.8,
+  "voiceConfirmWords": 40,
+  "infraSentinels": ["model/api issue", "api error", "console error", "upstream timeout"]
+}
